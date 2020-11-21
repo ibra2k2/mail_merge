@@ -1,0 +1,10 @@
+/Users/mibrahim/Projects/mail_merge/mail_merge/bin/Release/netcoreapp2.1/mail_merge.deps.json
+/Users/mibrahim/Projects/mail_merge/mail_merge/bin/Release/netcoreapp2.1/mail_merge.runtimeconfig.json
+/Users/mibrahim/Projects/mail_merge/mail_merge/bin/Release/netcoreapp2.1/mail_merge.runtimeconfig.dev.json
+/Users/mibrahim/Projects/mail_merge/mail_merge/bin/Release/netcoreapp2.1/mail_merge.dll
+/Users/mibrahim/Projects/mail_merge/mail_merge/bin/Release/netcoreapp2.1/mail_merge.pdb
+/Users/mibrahim/Projects/mail_merge/mail_merge/obj/Release/netcoreapp2.1/mail_merge.csproj.CoreCompileInputs.cache
+/Users/mibrahim/Projects/mail_merge/mail_merge/obj/Release/netcoreapp2.1/mail_merge.AssemblyInfoInputs.cache
+/Users/mibrahim/Projects/mail_merge/mail_merge/obj/Release/netcoreapp2.1/mail_merge.AssemblyInfo.cs
+/Users/mibrahim/Projects/mail_merge/mail_merge/obj/Release/netcoreapp2.1/mail_merge.dll
+/Users/mibrahim/Projects/mail_merge/mail_merge/obj/Release/netcoreapp2.1/mail_merge.pdb
